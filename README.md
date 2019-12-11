@@ -1,5 +1,5 @@
 # CV
 My CV, in regular, full (long), and short form.
 
-To download a pdf of my regular CV, please go here:
+To download a pdf of my regular CV, please go here:<br/>
 https://jmuehlbauer-usgs.github.io/CV/Muehlbauer_CV.pdf
